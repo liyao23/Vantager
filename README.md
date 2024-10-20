@@ -4,12 +4,12 @@ This repository contains Li Yao's solution for the Vantager Technical Assessment
 
 ## Table of Contents
 
-├── README.md
-├── input-datasets  # NOT UPLOAD TO GITHUB
-│   └── haystack.txt
-├── companies.csv   
-├── deliverable.ipynb
-└── presentation.ipynb 
+    ├── README.md
+    ├── input-datasets  # NOT UPLOAD TO GITHUB
+    │   └── haystack.txt
+    ├── companies.csv   
+    ├── deliverable.ipynb
+    └── presentation.ipynb 
 
 ## Deliverables
 * `companies.csv`: This CSV file contains all the needles extracted from the provided haystack.
