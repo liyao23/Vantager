@@ -14,7 +14,7 @@ This repository contains Li Yao's solution for the Vantager Technical Assessment
 ## Deliverables
 * `companies.csv`: This CSV file contains all the needles extracted from the provided haystack.
 * `deliverable.ipynb`: This notebook implements the core functionality required for the task.
-* Recorded presentation can be found here [Presentation](https://console.cloud.google.com/home/dashboard)
+* Recorded presentation can be found here [Presentation](https://youtu.be/i6rSvim2fiA)
 
 Note: `presentation.ipynb` illustrates the intermediate steps of `deliverable.ipynb`, and is intended for presentation purposes.
 
